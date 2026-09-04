@@ -16,8 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Animated profile metrics
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate main animated card (isometric 3D calendar)
-        uses: lowlighter/[email protected]
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.isocalendar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -32,7 +35,7 @@ jobs:
           plugin_isocalendar_animate: yes
 
       - name: Generate languages + habits card
-        uses: lowlighter/[email protected]
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -57,7 +60,7 @@ jobs:
           plugin_habits_facts: yes
 
       - name: Generate activity + stars card
-        uses: lowlighter/[email protected]
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
