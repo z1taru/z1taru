@@ -27,9 +27,9 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 
 ### Currently working on
 
-- 🧠 **BalancePsy** — a mental-health platform I'm building across mobile, backend, and web
-- ☁️ **[NomadCloud.kz](https://nomadcloud.kz/)** — cloud solutions
-- ⚙️ **Veya** — my own full-stack product: separate mobile, backend, and web apps
+- 🧠 **BalancePsy** — A mental-health platform I'm building across mobile, backend, and web
+- ☁️ **[NomadCloud.kz](https://nomadcloud.kz/)** — Cloud solutions
+- ⚙️ **Veya** — My own full-stack product: separate mobile, backend, and web apps
 
 ### Featured project — Veya
 
