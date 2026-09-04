@@ -115,4 +115,4 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1e2327&height=100&section=footer" width="100%"/>
 
-<p align="right"><sub><i>ninja mode: <img src="sasuke.gif" width="60" align="right"/></i></sub></p>
+<p align="right"><sub><i>ninja mode: <img src="sasuke.GIF" width="60" align="right"/></i></sub></p>
