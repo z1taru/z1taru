@@ -40,10 +40,6 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 | 🌐 Web | Vue.js, Nuxt |
 | 🐳 Infra | Docker, Linux, GitHub |
 
-> 💡 Add a short GIF/screenshot of Veya's UI here — a 5–8 second looped demo of the app boosts credibility more than any badge.
-
----
-
 ### Tech Stack
 
 **Mobile**
