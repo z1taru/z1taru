@@ -87,7 +87,12 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 
 ---
 
+</td>
+<td width="40%" valign="top" align="center">
 
+<a href="https://litt.ly/z1taru">
+  <img src="littly.png" width="380" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 
