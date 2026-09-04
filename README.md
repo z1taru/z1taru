@@ -32,7 +32,19 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 | 📱 Mobile | Flutter, Dart |
 | ⚙️ Backend | Java, Spring Boot, PostgreSQL |
 | 🌐 Web | Vue.js, Nuxt |
-| 🐳 Infra | Docker, Linux, GitHub |
+| 🐳 Infra | Docker, Ubuntu, GitHub |
+
+---
+
+### Engineering Interests
+
+- Full-stack product development
+- Mobile architecture and cross-platform apps
+- REST API and backend architecture
+- Database design
+- UI/UX and accessible interfaces
+- Docker-based development environments
+- Testing, security, and maintainable code
 
 ---
 
@@ -75,35 +87,7 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 
 ---
 
-### Engineering Interests
 
-- Full-stack product development
-- Mobile architecture and cross-platform apps
-- REST API and backend architecture
-- Database design
-- UI/UX and accessible interfaces
-- Docker-based development environments
-- Testing, security, and maintainable code
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=z1taru&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z1taru&hide_border=true" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=z1taru&theme=flat&no-frame=true&row=1&column=7" width="100%"/>
-</p>
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<a href="https://litt.ly/z1taru">
-  <img src="littly.png" width="380" alt="Portfolio"/>
-</a>
 
 <br/><br/>
 
