@@ -1,0 +1,84 @@
+name: Generate Animated Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # обновление каждый день в полночь
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  base-metrics:
+    runs-on: ubuntu-latest
+    name: Animated profile metrics
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate main animated card (isometric 3D calendar)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: z1taru
+          template: classic
+          base: ""
+          config_timezone: Asia/Almaty
+
+          # --- Isometric 3D contribution calendar, animated rotation ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_animate: yes
+
+      - name: Generate languages + habits card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: z1taru
+          template: classic
+          base: ""
+          config_timezone: Asia/Almaty
+
+          # --- Most used languages, animated bar fill-in ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+          plugin_languages_details: bytes-size
+
+          # --- Coding habits (active days/hours) ---
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+      - name: Generate activity + stars card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: z1taru
+          template: classic
+          base: ""
+          config_timezone: Asia/Almaty
+
+          # --- Recent activity timeline ---
+          plugin_activity: yes
+          plugin_activity_limit: 6
+          plugin_activity_days: 21
+          plugin_activity_filter: all
+
+          # --- Starred repos carousel ---
+          plugin_stars: yes
+          plugin_stars_limit: 6
+
+      - name: Commit generated SVGs back to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.isocalendar.svg metrics.languages.svg metrics.activity.svg || true
+          git diff --staged --quiet || git commit -m "chore: update animated metrics [skip ci]"
+          git push
