@@ -2,6 +2,9 @@
   <img src="nickname.gif" width="100%"/>
 </p>
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### About
 
@@ -93,16 +96,6 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=z1taru&theme=flat&no-frame=true&row=1&column=7" width="100%"/>
-</p>
-
----
-
-### Connect with me
-
-<p align="left">
-  <a href="https://litt.ly/z1taru">
-    <img src="https://img.shields.io/badge/Portfolio-6DB33F?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
 </p>
 
 </td>
