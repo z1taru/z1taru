@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2EA9DF,100:8E54E9&height=180&section=header&text=Hi,%20I'm%20Aldiyar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="title.svg" alt="Aldiyar Baidilda" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+%2B+Backend+%2B+Web;Building+products+end-to-end" alt="Typing SVG" />
-</h3>
-
-<table>
-<tr>
-<td width="60%" valign="top">
+<p align="center">
+  <img src="sasuke.GIF" width="100%" alt="profile illustration" />
+</p>
 
 ### About
 
@@ -17,7 +13,7 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 ### Currently working on
 
 - **BalancePsy** — a mental-health platform I'm building across mobile, backend, and web
-- **[NomadCloud.kz](https://nomadcloud.kz/)** — <!-- one-line description pending, see note below -->
+- **[NomadCloud.kz](https://nomadcloud.kz/)** — cloud solutions
 - **Veya** — my own full-stack product: separate mobile, backend, and web apps
 
 ### Featured project — Veya
@@ -26,15 +22,6 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 - **Backend:** Java, Spring Boot, PostgreSQL
 - **Web:** Vue.js, Nuxt
 - **Infra:** Docker, Linux, GitHub
-
-</td>
-<td width="40%" align="center" valign="top">
-
-<img src="sasuke.GIF" width="300" alt="profile illustration" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -86,28 +73,3 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 - UI/UX and accessible interfaces
 - Docker-based development environments
 - Testing, security, and maintainable code
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=z1taru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1taru&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z1taru&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z1taru&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/z1taru/z1taru/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution calendar" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E54E9,100:2EA9DF&height=100&section=footer" width="100%" />
-</p>
