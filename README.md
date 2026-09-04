@@ -2,6 +2,11 @@
   <img src="nickname.gif" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/z1taru">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+BalancePsy+%E2%80%94+mental+health+platform;Shipping+Veya+%E2%80%94+my+own+full-stack+product;Growing+NomadCloud.kz;Flutter+%C2%B7+Spring+Boot+%C2%B7+Vue.js&font=Fira+Code&center=true&width=600&height=40&color=6DB33F&vCenter=true&size=20" />
+  </a>
+</p>
 
 <table>
 <tr>
@@ -15,7 +20,7 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
   <img src="metrics.isocalendar.svg" width="100%"/>
 </p>
 <p align="left">
-  <img src="metrics.languages.svg" width="100%"/>
+  <img src="assets/languages-and-frameworks.svg" width="100%"/>
 </p>
 <p align="left">
   <img src="metrics.activity.svg" width="100%"/>
