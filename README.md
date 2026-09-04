@@ -13,9 +13,6 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 <p align="left">
   <img src="lan.svg" width="100%"/>
 </p>
-<p align="left">
-  <img src="metrics.activity.svg" width="100%"/>
-</p>
 
 ---
 
