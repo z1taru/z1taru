@@ -24,6 +24,21 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 </div>
 
 ---
+---
+
+### 🔗 Portfolio
+
+<p align="center">
+  <a href="https://litt.ly/z1taru">
+    <img src="https://cdn.litt.ly/images/Fj8Jq7XbfGIegrEODMN2ei5eU2L4qc1s?s=1200x630&m=inside" width="360" style="border-radius:12px" alt="Aldiyar Baidilda — portfolio preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://litt.ly/z1taru"><b>litt.ly/z1taru</b></a> — full portfolio with projects, CV & socials
+</p>
+
+---
 
 ### Currently working on
 
