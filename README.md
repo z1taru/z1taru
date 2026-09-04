@@ -1,27 +1,46 @@
-<p align="center">
-  <img src="title.svg" alt="Aldiyar Baidilda" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="sasuke.GIF" width="100%" alt="profile illustration" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6DB33F&height=200&section=header&text=Aldiyar%20Baidilda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%C2%B7%20Backend%20%C2%B7%20Web&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/z1taru">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+BalancePsy+%E2%80%94+mental+health+platform;Shipping+Veya+%E2%80%94+my+own+full-stack+product;Growing+NomadCloud.kz;Flutter+%C2%B7+Spring+Boot+%C2%B7+Vue.js&font=Fira+Code&center=true&width=600&height=40&color=6DB33F&vCenter=true&size=20" />
+</a>
+
+</div>
 
 ### About
 
 Full-stack developer building mobile apps, backend systems, and web interfaces. I work across the entire product lifecycle — from architecture and API design to the final user experience and deployment.
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=z1taru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=z1taru&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1taru&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
 ### Currently working on
 
-- **BalancePsy** — a mental-health platform I'm building across mobile, backend, and web
-- **[NomadCloud.kz](https://nomadcloud.kz/)** — cloud solutions
-- **Veya** — my own full-stack product: separate mobile, backend, and web apps
+- 🧠 **BalancePsy** — a mental-health platform I'm building across mobile, backend, and web
+- ☁️ **[NomadCloud.kz](https://nomadcloud.kz/)** — cloud solutions
+- ⚙️ **Veya** — my own full-stack product: separate mobile, backend, and web apps
 
 ### Featured project — Veya
 
-- **Mobile:** Flutter, Dart
-- **Backend:** Java, Spring Boot, PostgreSQL
-- **Web:** Vue.js, Nuxt
-- **Infra:** Docker, Linux, GitHub
+| Layer | Stack |
+|---|---|
+| 📱 Mobile | Flutter, Dart |
+| ⚙️ Backend | Java, Spring Boot, PostgreSQL |
+| 🌐 Web | Vue.js, Nuxt |
+| 🐳 Infra | Docker, Linux, GitHub |
+
+> 💡 Add a short GIF/screenshot of Veya's UI here — a 5–8 second looped demo of the app boosts credibility more than any badge.
 
 ---
 
@@ -73,3 +92,19 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 - UI/UX and accessible interfaces
 - Docker-based development environments
 - Testing, security, and maintainable code
+
+---
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=z1taru&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</div>
+
+<!-- SNAKE_START -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/z1taru/z1taru/output/github-contribution-grid-snake.svg" />
+</div>
+<!-- SNAKE_END -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1e2327&height=100&section=footer" width="100%"/>
+
+<p align="right"><sub><i>ninja mode: <img src="sasuke.gif" width="60" align="right"/></i></sub></p>
