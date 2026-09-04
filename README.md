@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6DB33F&height=200&section=header&text=Aldiyar%20Baidilda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%C2%B7%20Backend%20%C2%B7%20Web&descAlignY=58&descSize=18" width="100%"/>
+  <img src="nickname.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -94,11 +94,34 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 - Docker-based development environments
 - Testing, security, and maintainable code
 
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=z1taru&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z1taru&hide_border=true" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=z1taru&theme=flat&no-frame=true&row=1&column=7" width="100%"/>
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://litt.ly/z1taru">
+    <img src="https://img.shields.io/badge/Portfolio-6DB33F?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
+
 </td>
 <td width="40%" valign="top" align="center">
 
 <a href="https://litt.ly/z1taru">
-  <img src="littly.png" width="380" alt="Aldiyar Baidilda — portfolio"/>
+  <img src="littly.png" width="380" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -112,7 +135,5 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 </table>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1e2327&height=100&section=footer" width="100%"/>
 
 <p align="right"><sub><i>ninja mode: <img src="sasuke.GIF" width="60" align="right"/></i></sub></p>
