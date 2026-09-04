@@ -1,50 +1,38 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6DB33F&height=200&section=header&text=Aldiyar%20Baidilda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%C2%B7%20Backend%20%C2%B7%20Web&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6DB33F&height=200&section=header&text=Aldiyar%20Baidilda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20%C2%B7%20Backend%20%C2%B7%20Web&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <a href="https://github.com/z1taru">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+BalancePsy+%E2%80%94+mental+health+platform;Shipping+Veya+%E2%80%94+my+own+full-stack+product;Growing+NomadCloud.kz;Flutter+%C2%B7+Spring+Boot+%C2%B7+Vue.js&font=Fira+Code&center=true&width=600&height=40&color=6DB33F&vCenter=true&size=20" />
+  </a>
+</p>
 
-<a href="https://github.com/z1taru">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+BalancePsy+%E2%80%94+mental+health+platform;Shipping+Veya+%E2%80%94+my+own+full-stack+product;Growing+NomadCloud.kz;Flutter+%C2%B7+Spring+Boot+%C2%B7+Vue.js&font=Fira+Code&center=true&width=600&height=40&color=6DB33F&vCenter=true&size=20" />
-</a>
-
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### About
 
 Full-stack developer building mobile apps, backend systems, and web interfaces. I work across the entire product lifecycle — from architecture and API design to the final user experience and deployment.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=z1taru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=z1taru&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1taru&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
----
----
-
-### 🔗 Portfolio
-
-<p align="center">
-  <a href="https://litt.ly/z1taru">
-    <img src="https://cdn.litt.ly/images/Fj8Jq7XbfGIegrEODMN2ei5eU2L4qc1s?s=1200x630&m=inside" width="360" style="border-radius:12px" alt="Aldiyar Baidilda — portfolio preview" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=z1taru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
 </p>
-
-<p align="center">
-  <a href="https://litt.ly/z1taru"><b>litt.ly/z1taru</b></a> — full portfolio with projects, CV & socials
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z1taru&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1taru&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ### Currently working on
 
-- 🧠 **BalancePsy** — A mental-health platform I'm building across mobile, backend, and web
-- ☁️ **[NomadCloud.kz](https://nomadcloud.kz/)** — Cloud solutions
-- ⚙️ **Veya** — My own full-stack product: separate mobile, backend, and web apps
+- 🧠 **BalancePsy** — a mental-health platform I'm building across mobile, backend, and web
+- ☁️ **[NomadCloud.kz](https://nomadcloud.kz/)** — cloud solutions
+- ⚙️ **Veya** — my own full-stack product: separate mobile, backend, and web apps
 
 ### Featured project — Veya
 
@@ -54,6 +42,8 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 | ⚙️ Backend | Java, Spring Boot, PostgreSQL |
 | 🌐 Web | Vue.js, Nuxt |
 | 🐳 Infra | Docker, Linux, GitHub |
+
+---
 
 ### Tech Stack
 
@@ -104,16 +94,31 @@ Full-stack developer building mobile apps, backend systems, and web interfaces. 
 - Docker-based development environments
 - Testing, security, and maintainable code
 
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="littly.png" width="380" alt="Aldiyar Baidilda — portfolio"/>
+
+<br/>
+
+<a href="https://litt.ly/z1taru">
+  <img src="https://img.shields.io/badge/View_Portfolio-6DB33F?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=z1taru&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=z1taru&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</p>
 
 <!-- SNAKE_START -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/z1taru/z1taru/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/z1taru/z1taru/output/github-contribution-grid-snake.svg" />
+</p>
 <!-- SNAKE_END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1e2327&height=100&section=footer" width="100%"/>
