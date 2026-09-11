@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.3924573204915" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="389.3924573204915" y="0" width="59.04100916646247" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="448.433466486954" y="0" width="11.566533513046064" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.09617530817707" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="389.09617530817707" y="0" width="59.3460919548585" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="448.44226726303555" y="0" width="11.55773273696445" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -59,7 +59,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>4.96 MB</div>
+                                <div>4.99 MB</div>
                             </small>
                         </div>
                     </section>
